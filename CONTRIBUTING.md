@@ -1,6 +1,6 @@
-# rkttu Books 문서 기여 규칙
+# 남정현의 도서 컬렉션 문서 기여 규칙
 
-이 규칙은 별도의 `CONTRIBUTING.md`가 없는 rkttu Books 저장소의 원고, README, Discussions와 Issues 문안을 작성할 때 적용합니다. 책마다 추가 규칙이 있다면 해당 저장소의 집필 지침도 함께 따릅니다.
+이 규칙은 별도의 `CONTRIBUTING.md`가 없는 남정현의 도서 저장소에서 원고, README, Discussions와 Issues 문안을 작성할 때 적용합니다. 책마다 추가 규칙이 있다면 해당 저장소의 집필 지침도 함께 따릅니다.
 
 ## 굵게 표시한 한국어 뒤의 조사
 
