@@ -1,6 +1,6 @@
 # rkttu Books
 
-rkttu가 집필하고 관리하는 한국어 기술서와 실행 예제를 GitHub에서 제공합니다. 책마다 원고, 예제, 개정 이력을 판본별로 관리합니다.
+남정현이 집필하고 관리하는 한국어 기술서와 실행 예제를 GitHub에서 제공합니다. 책마다 원고, 예제, 개정 이력을 판본별로 관리합니다.
 
 ## 첫 번째 책
 
@@ -10,4 +10,14 @@ rkttu가 집필하고 관리하는 한국어 기술서와 실행 예제를 GitHu
 
 도서별 원고의 제공 범위와 저장소 접근 조건은 해당 GitHub Sponsors 티어에 적습니다. 후원으로 제공하는 비공개 원고는 후원 기간 동안 읽을 수 있습니다.
 
-저자와 공개 활동은 [rkttu의 GitHub 프로필](https://github.com/rkttu)에서 확인할 수 있습니다.
+## 저자 남정현
+
+남정현은 .NET 소프트웨어 개발과 기술 글쓰기를 함께해 왔습니다. [LinkedIn 프로필](https://www.linkedin.com/in/rkttu/)에 소개한 주요 이력은 다음과 같습니다.
+
+- .NET 기반 소프트웨어 개발 20여 년
+- 2009년부터 Microsoft MVP 활동
+- 2019년 한국 .NET 개발자 커뮤니티 닷넷데브 설립
+- TableCloth와 MirrorMirror MCP 스위트 등 오픈소스 프로젝트 개발 및 유지보수
+- 개발자 뉴스레터 [/dev/write](https://www.linkedin.com/newsletters/dev-write-7322271862778953728/) 발행
+
+저자의 공개 프로젝트는 [남정현의 GitHub 프로필](https://github.com/rkttu)에서 확인할 수 있습니다.
