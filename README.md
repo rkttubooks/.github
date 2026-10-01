@@ -1,3 +1,3 @@
-# /dev/write Books
+# /dev/write books 조직 문서
 
-이 저장소에서 /dev/write Books를 소개하는 [GitHub 조직 프로필](profile/README.md), 모든 도서에 기본으로 적용하는 [월간 후원 이용 조건](SUBSCRIPTION_TERMS.md)과 공통 [문서 기여 규칙](CONTRIBUTING.md)을 관리합니다.
+[조직 소개](profile/README.md), [월간 멤버십 이용 조건](SUBSCRIPTION_TERMS.md)과 [문서 기여 안내](CONTRIBUTING.md)를 관리합니다. 정식 전자책은 교보문고 e퍼플을 통해 판매하고 GitHub Sponsors는 전체 집필 콘텐츠의 Continuous Edition을 제공하는 월 5달러 Founding Member 멤버십으로 운영합니다. 첫 책은 출간 준비 중입니다.
